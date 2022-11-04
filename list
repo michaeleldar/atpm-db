@@ -1,0 +1,9 @@
+zani-browser true false false true true true true true unknown browser
+orange-os-le-installer true false true false false false false true gplv3 os
+orange-os-le-iso false false true true true true true true gplv3 os
+orange-os-le-installer-rpi true false false false false false false true gplv3 os
+platinum true false false true true true true true mit browser
+penguin-mod true true false false true true true true mit+gplv3+cc4.0 scratch-mod
+adacraft true false false true true true true true mplv2 scratch-mod
+scratch2python false true true true true true true gplv3 language-converter
+catalyst true false true true true true true true mit browser
