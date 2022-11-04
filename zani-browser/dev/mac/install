@@ -7,6 +7,6 @@ git clone https://github.com/Zxnii/zani-browser.git
 cd zani-browser
 npm install
 npm run build
-mkdir ~/aptm/zani-browser
+mkdir ~/atpm/zani-browser
 mv ./* ~/atpm/zani-browser/
 echo "npm run start" > ~/atpm/zani-browser/atpm_run_commands.txt
